@@ -7,16 +7,12 @@ Overview:
 
 Convolutional NN Features:
 - Initial inputs of 150x150 images with 4 channels
-- Classifying into 3 labels (minor, moderate, severe)
 - Batch size = 32, Weight decay = 1e-4, CrossEntropy loss, Adam optimizer
 - Additional hyperparameter tuning:
     - 5-Fold cross validation
     - Batch normalization
     - PyTorch tensors for xData and yData
     - Learning rate scheduler
-
-![Image](https://github.com/sagars2004/CNN-Machine-Learning-Model-2024/assets/145163371/ad474741-5a08-4bb5-bbfa-78707099e456)
-
 
 Accuracy Performance Metrics- Training Accuracy: 99.59%, Test Accuracy: 93.10%
 ![Image 6-23-24 at 2 02 PM (1)](https://github.com/sagars2004/CNN-Machine-Learning-Model-2024/assets/145163371/ae8da9c1-c23e-4e74-874f-fb1dc1579856)
