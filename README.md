@@ -1,5 +1,5 @@
 # CNN-Machine-Learning-Model-2024
-This application involves the development of a CNN-based Machine Learning Model for image classification of barrier coatings microstructures in elastic stress contours, with the goal of accelerating thermo-mechanical fracture tests and reducing the runtime of finite element simulations.
+This application involves the development of a CNN-based Machine Learning Model for image classification of barrier coatings microstructures in elastic stress contours, with the goal of accelerating thermo-mechanical fracture tests and reducing the runtime of finite element simulations. Built using the Kaggle Jupyter IDE and the NVIDIA T4 x2 Tensor Core GPU.
 
 Overview:
 ![Image 7-3-24 at 9 19 PM](https://github.com/sagars2004/CNN-Machine-Learning-Model-2024/assets/145163371/b0d1ccef-ad4a-45c2-9b49-1161ffa33b9b)
